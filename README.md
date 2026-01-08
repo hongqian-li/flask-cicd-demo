@@ -1,4 +1,5 @@
 # Flask CI/CD Demo
+![CI/CD Pipeline](https://github.com/hongqian-li/flask-cicd-demo/actions/workflows/ci-cd.yml/badge.svg)
 
 A simple Flask REST API that I built to practice modern DevOps workflows. This project is part of my learning journey in cloud engineering and CI/CD automation.
 
